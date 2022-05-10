@@ -1,18 +1,20 @@
 ---
 title: Carlow Roofing Sucks!
-feature_image: "carlowroofingsucks.jpg"
+feature_image: "carlow_logos.jpg"
 feature_text: |
   ## Carlow Roofing/MO Roofing Sucks
 ---
 
 Avoid Carlow Roofing and MO Roofing like the plague. 
 
+### Share your story - carlowroofingsucks@gmail.com
+
 This outfit is fronted by a guy called Mark, who was operating as Carlow Roofing and Guttering and now also seems to be using the name MO Roofing and Miley (you will see that MO Roofing’s Facebook page refers to carlowroofing.ie if you scroll to some of the older posts). 
 
 Website: carlowroofing.ie
 Facebook page is https://www.facebook.com/Moroofingie-100939119043533
 Phone numbers associated with these people are: 
-0​​85 822 3673
+085 822 3673
 085 762 0231
 059 973 7777
 059 9737 636
@@ -36,3 +38,5 @@ If you’re considering hiring these people, note that you won’t find a physic
 
 
 [Carlow Roofing website](https://www.carlowroofing.ie/)
+
+![Logos](carlow_facebook.jpg "Logos")
