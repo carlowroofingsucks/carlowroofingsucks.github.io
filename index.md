@@ -1,6 +1,6 @@
 ---
 title: Carlow Roofing Sucks!
-feature_image: "carlow_logos.jpg"
+feature_image: ""
 feature_text: |
   ## Carlow Roofing/MO Roofing Sucks
 ---
@@ -10,6 +10,8 @@ Avoid Carlow Roofing and MO Roofing like the plague.
 ### Share your story - carlowroofingsucks@gmail.com
 
 This outfit is fronted by a guy called Mark, who was operating as Carlow Roofing and Guttering and now also seems to be using the name MO Roofing and Miley (you will see that MO Roofing’s Facebook page refers to carlowroofing.ie if you scroll to some of the older posts). 
+
+![Logos](carlow_logos.jpg "Logos")
 
 Website: carlowroofing.ie
 
