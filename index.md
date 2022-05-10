@@ -12,12 +12,19 @@ Avoid Carlow Roofing and MO Roofing like the plague.
 This outfit is fronted by a guy called Mark, who was operating as Carlow Roofing and Guttering and now also seems to be using the name MO Roofing and Miley (you will see that MO Roofing’s Facebook page refers to carlowroofing.ie if you scroll to some of the older posts). 
 
 Website: carlowroofing.ie
+
 Facebook page is https://www.facebook.com/Moroofingie-100939119043533
-Phone numbers associated with these people are: 
+
+Phone numbers associated with these people are:
+
 085 822 3673
+
 085 762 0231
+
 059 973 7777
+
 059 9737 636
+
 
 These guys are experts alright, but it isn’t in roofing. It’s in getting your money out of you.
 
